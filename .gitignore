@@ -1,0 +1,19 @@
+# C++, C Make, and build files
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.a
+*.out
+*.d
+*.dSYM/
+*.cmake
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.vcxproj
+*.vcxproj.filters

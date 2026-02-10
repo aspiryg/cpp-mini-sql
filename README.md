@@ -86,13 +86,15 @@ sql> SELECT * FROM users WHERE age >= 30 AND name = 'Alice';
 1 row(s) returned
 ```
 
-## C++ Topics Covered
+## 🤝 Contributing
 
-- **Enums & enum classes** — token types, column types, operators
-- **std::variant** — type-safe union for `INT | TEXT` values
-- **std::vector / std::unordered_map** — in-memory storage
-- **Recursive descent parsing** — classic compiler technique
-- **Template functions** — generic comparison operator
-- **String manipulation** — tokenizer, formatting
-- **Error handling** — exceptions with descriptive messages
-- **RAII / value semantics** — no raw pointers, no manual memory management
+This is a learning project! Feel free to:
+- Add new features
+- Improve error messages
+- Add more comprehensive validation
+- Optimize performance
+- Add tests
+
+## 📄 License
+
+This project is for educational purposes. Use it freely to learn!

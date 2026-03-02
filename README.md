@@ -86,7 +86,7 @@ sql> SELECT * FROM users WHERE age >= 30 AND name = 'Alice';
 1 row(s) returned
 ```
 
-## 🤝 Contributing
+## Contributing
 
 This is a learning project! Feel free to:
 - Add new features
@@ -95,6 +95,6 @@ This is a learning project! Feel free to:
 - Optimize performance
 - Add tests
 
-## 📄 License
+## License
 
 This project is for educational purposes. Use it freely to learn!
